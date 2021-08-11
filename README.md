@@ -2,7 +2,7 @@
 
 
 # About
-This is a frontend project of Bus Booking System.I create this using a Python Library i.e., is tkinter. You can install this library using 'pip install tkinter' from your cmd or terminal.
+This is a frontend project of Bus Booking System.I have created this using a Python Library i.e. tkinter. You can install this library using 'pip install tkinter' from your cmd or terminal.
 
 # Working of this project.
 Here in this project:
@@ -11,8 +11,6 @@ Here in this project:
  3. By clicking on search bus you will be able to fill the details.
  
 # Preview of home page
-![image]() 
-
-# Link for the website
+![image](https://github.com/asmitaporwal/Bus-Booking-System/blob/master/Home.png) 
 
 kindly check this out, Hope you like it.
