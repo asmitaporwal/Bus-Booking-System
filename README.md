@@ -4,8 +4,8 @@
 This is a frontend project of Bus Booking System.I have created this using a Python Library i.e. tkinter. You can install this library using 'pip install tkinter' from your cmd or terminal.
 
 ## Built With
-|Python|
-|---|
+|Python|Tkinter|
+|---|---|
 
 ## Working of this project.
 Here in this project:
